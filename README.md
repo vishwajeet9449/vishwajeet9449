@@ -6,11 +6,12 @@
     <br>
 -       💞️ I’m looking for a Internship/Job in Web Devlopment.
     <br>
--       📫 You can reach me through my email- <b>vishwajeetsingh9449@gmail.com</b>
+-       📫 You can reach me through my Email- <b>vishwajeetsingh9449@gmail.com</b>
     <br>
 -       😄 Pronouns:he/him
     <br>
 -        Thanks for visiting my profile!!
+    </h4>
   <hr>
 - 
 
