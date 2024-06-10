@@ -6,7 +6,7 @@
     <br>
 -       💞️ I’m looking for a Internship/Job in Web Devlopment.
     <br>
--       📫 You can reach me through my <img src="/image/gmail logo.png" alt="Gmail"> <b>vishwajeetsingh9449@gmail.com</b>
+-       📫 You can reach me through my Gmail- <b>vishwajeetsingh9449@gmail.com</b>
     <br>
 -       😄 Pronouns:he/him
     <br>
