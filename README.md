@@ -13,6 +13,7 @@
 -        Thanks for visiting my profile!!
     </h4>
   <hr>
+  <a href="https://www.linkedin.com/in/vishwajeetsingh9449" alt="Linkedin">Linkedin</a>
 - 
 
 <!---
