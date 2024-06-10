@@ -1,3 +1,4 @@
+-   <body background-color:lavender;>
 -   <h1>👋 Hi, I’m @vishwajeet9449 </h1>
 <hr>
 -   <h4>👀 I’m interested in Full Stack Web Devlopment
@@ -13,7 +14,10 @@
 -        Thanks for visiting my profile!!
     </h4>
   <hr>
-  <a href="https://www.linkedin.com/in/vishwajeetsingh9449" alt="Linkedin">Linkedin</a>
+  <h4>You can contact me through:-</h4>
+  <a href="https://www.linkedin.com/in/vishwajeetsingh9449">Linkedin</a>
+  <a href="https://twitter.com/vishwarajput01">Twitter</a>
+  </body>
 - 
 
 <!---
