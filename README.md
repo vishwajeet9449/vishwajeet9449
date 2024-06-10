@@ -1,4 +1,9 @@
--   <body background-color:lavender;>
+<!Doctype html>
+<html>
+<head>
+    <link rel="stylesheet" href="style.css">
+</head>
+-   <body>
 -   <h1>👋 Hi, I’m @vishwajeet9449 </h1>
 <hr>
 -   <h4>👀 I’m interested in Full Stack Web Devlopment
@@ -16,11 +21,7 @@
   <hr>
   <h4>You can contact me through:-</h4>
   <a href="https://www.linkedin.com/in/vishwajeetsingh9449">Linkedin</a>
+    <br>
   <a href="https://twitter.com/vishwarajput01">Twitter</a>
   </body>
-- 
-
-<!---
-vishwajeet9449/vishwajeet9449 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</html>
